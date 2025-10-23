@@ -25,8 +25,8 @@ To analyze the 'Technology' product category from a sample sales dataset to answ
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Soumyadeep-4704/E-commerce-sales-profitability-analysis.git
-    cd E-commerce-sales-profitability-analysis
+    git clone
+    cd 
     ```
 
 2.  **Install dependencies:**
