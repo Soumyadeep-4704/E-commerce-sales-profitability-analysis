@@ -56,6 +56,7 @@ To analyze the 'Technology' product category from a sample sales dataset to answ
 
       * A new file named `final_report_data.csv` will be generated.
       * Open this file in **Microsoft Excel** to view the raw data for the dashboard.
+      * I've attached the screenshot of my worksheet for your reference.
      <img width="1468" height="787" alt="Screenshot 2025-10-23 at 8 27 12 PM" src="https://github.com/user-attachments/assets/cb95e6e9-b548-423f-b3ed-3e780a63c5bc" />
 
 
@@ -76,4 +77,5 @@ To analyze the 'Technology' product category from a sample sales dataset to answ
 ## 📊 Sample Dashboard Output
 <img width="1470" height="809" alt="Screenshot 2025-10-23 at 8 22 30 PM" src="https://github.com/user-attachments/assets/a422b31c-3ce6-486a-9598-16f617d92f7c" />
 
+**Note:** Also added final, polished output file named as "Sales_Dashboard.xlsx" 
 
